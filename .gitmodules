@@ -1,0 +1,6 @@
+[submodule "lab3/1XC3_L03"]
+	path = lab3/1XC3_L03
+	url = https://github.com/arjgog/1XC3_L03.git
+[submodule "CS1XC3_L08_P2/1XC3_L08_P2"]
+	path = CS1XC3_L08_P2/1XC3_L08_P2
+	url = https://github.com/arjgog/1XC3_L08_P2.git
